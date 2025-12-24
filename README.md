@@ -330,14 +330,6 @@ curl -X POST http://localhost:8080/api/alerts/1/acknowledge
 5. **HTTPS**: Use TLS/SSL in production
 6. **Scaling**: Deploy multiple instances behind a load balancer
 
-## License
-
-[Your License Here]
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## Author
-
-[Your Name]
